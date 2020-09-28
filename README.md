@@ -1,2 +1,2 @@
 # java-spi
-Java SPI demo
+Java `Service Provider Interface` Demo
