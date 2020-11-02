@@ -9,8 +9,8 @@
 		<artifactId>spi-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>device-api</artifactId>
-	<name>device-api</name>
+	<artifactId>device-spi</artifactId>
+	<name>device-spi</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
